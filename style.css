@@ -26,15 +26,15 @@
     --weight-bold: 700;
     --weight-semi-bold: 600;
     --weight-regular: 400;
-  }
 
    /* Size */
   --size-border-radius: 4px;
 
    /* Annimation */
   --animation-duration: 300ms;
-
+}
   
+
   /* Typography */
   
   h1 {
@@ -73,7 +73,6 @@
   body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    cursor: default;
   }
 
   a {
@@ -82,7 +81,6 @@
   }
 
   ul {
-    list-style: none;
     padding-left: 0;
   }
 
@@ -120,7 +118,7 @@
     color: var(--color-white);
   }
 
-  .navar__menu__item {
+  .navbar__menu__item {
     padding: 8px 12px;
     margin: 0 4px;
     color: var(--color-white);
