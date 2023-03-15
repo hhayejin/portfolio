@@ -258,7 +258,6 @@ border-color: var(--color-white);
   width: 200px;
 }
 
-
 /* Skill */
 #skills {
   background-color: var(--color-yellow);
@@ -312,7 +311,7 @@ flex-basis: 40%;
 }
 
 .tools, .etc {
-  padding: 20px;
+  padding: 30px;
 }
 
 /* Work */
